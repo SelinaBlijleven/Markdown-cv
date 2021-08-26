@@ -45,8 +45,6 @@ Data Scientist, Machine Learning Engineer, Software Engineer, Technical Writer a
 | JavaScript/PHP                                    | Hosting and organizing events                   |
 | Python/MATLAB/Java/Prolog/R                       | Working with a scrum-based approach             |
 | Some proficiency in various programming languages | Logic                                           |
-|                                                   |                                                 |
-|                                                   |                                                 |
 
 ## Languages
 ### Native
@@ -56,8 +54,8 @@ Data Scientist, Machine Learning Engineer, Software Engineer, Technical Writer a
 ### Very proficient
 
 - English
-  - `2013`Anglia Exam for advanced English, achieved with proficiency
-  - `2020`Language training at VU University (Writing techniques, Dutch spelling and grammar)
+  - `2013` Anglia Exam for advanced English, achieved with proficiency
+  - `2020` Language training at VU University (Writing techniques, Dutch spelling and grammar)
 
 
 
@@ -83,6 +81,6 @@ Data Scientist, Machine Learning Engineer, Software Engineer, Technical Writer a
 
 ## Projects
 
-* `2018-2019`**Graphic design for branding**, *Residents' association 'De RXL'*
-* `2020-2021`**Website design with WordPress/Divi**, *Residents' association 'De RXL'*
+* `2018-2019` **Graphic design for branding**, *Residents' association 'De RXL'*
+* `2020-2021` **Website design with WordPress/Divi**, *Residents' association 'De RXL'*
 * `2021` **Training in subversion (SVN)**, *Copernica Marketing Software*
