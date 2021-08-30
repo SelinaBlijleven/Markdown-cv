@@ -39,12 +39,12 @@ Data Scientist, Machine Learning Engineer, Software Engineer, Technical Writer a
 
 | Technical                                         | Soft                                            |
 | :------------------------------------------------ | ----------------------------------------------- |
-| Git/GitHub/SVN                                    | Verbal and written communication with customers |
-| Microsoft Office products                         | Technical writing                               |
-| LaTeX/markdown/HTML                               | Preparing, planning and giving trainings        |
-| JavaScript/PHP                                    | Hosting and organizing events                   |
-| Python/MATLAB/Java/Prolog/R                       | Working with a scrum-based approach             |
-| Some proficiency in various programming languages | Logic                                           |
+| JavaScript/PHP                                    | Verbal and written communication with customers |
+| Python/MATLAB/Java/Prolog/R                       | Technical writing                               |
+| Git/GitHub/SVN                                    | Preparing, planning and giving trainings        |
+| LaTeX/markdown/HTML                               | Hosting and organizing events                   |
+| Some proficiency in various programming languages | Working with a scrum-based approach             |
+| Microsoft Office products                         | Logic                                           |
 
 ## Languages
 ### Native
