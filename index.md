@@ -71,3 +71,4 @@ for teaching and learning. Passionate about bringing creativity and diversity to
 * `2021` **Training in subversion (SVN)**, *Copernica Marketing Software*
 * `2024-current`: **Maintaining a community wiki on a dedicated website, with a focus on enhancing my front-end skills 
 and accessible technology.**
+
